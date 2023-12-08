@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This module provides mathematical operations on lists of floating-point numbers.
+This module provides math operations on lists of floating-point numbers.
 """
 
 from typing import List
