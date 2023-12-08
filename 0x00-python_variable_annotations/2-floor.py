@@ -5,7 +5,7 @@ This module provides floor function.
 import math
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     """
     Rounds down a floating-point number to the nearest integer.
     Returns:
